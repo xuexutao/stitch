@@ -29,6 +29,8 @@ def find_homography(img_a, img_b):
     else:
         return None
     
+    
+    
 
 def main():
     # 读取图像
